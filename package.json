@@ -34,9 +34,9 @@
     "karma-mocha": "0.2.0",
     "mocha": "2.2.5",
     "exenv": "1.2.0",
-    "react-addons-test-utils": ">=0.14.0-rc1",
-    "react-dom": ">=0.14.0-rc1",
-    "react": ">=0.14.0-rc1",
+    "react-addons-test-utils": ">=0.14.0",
+    "react-dom": ">=0.14.0",
+    "react": ">=0.14.0",
     "reactify": "^1.1.1",
     "rf-release": "0.4.0",
     "uglify-js": "2.4.23",
@@ -47,7 +47,7 @@
     "element-class": "^0.2.0"
   },
   "peerDependencies": {
-    "react": ">=0.14.0-rc1"
+    "react": ">=0.14.0"
   },
   "tags": [
     "react",
